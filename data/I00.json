@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "I00",
+    "author": "DagSP",
+    "creators": ["DagSP"],
+    "verifier": "Soan",
+    "verification": "https://youtu.be/iLIeXEXbo3w?si=TAzNt7IhvC-LaKOZ",
+    "percentToQualify": "100",
+    "password": "e",
+    "records": [
+        {
+            "user": "Pyrobyte",
+            "link": "https://youtu.be/Sif2erI_HFM?si=KhZhZ1LGsh9o1G7X",
+            "percent": 100,
+            "hz": 241
+        }
+    ]
+}
