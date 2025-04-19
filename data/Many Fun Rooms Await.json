@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "e",
     "records": [
+        {
+            "user": "3rr0r",
+            "link": "https://youtu.be/uyRSzokkMds?si=710BkY-pPg8UGTYO",
+            "percent": 100,
+            "hz": 241
+        }
     ]
 }
